@@ -4,14 +4,16 @@ h1{
     font-size: 60px;
     font-family: 'Emilys Candy', cursive;
 }
-<<<<<<< HEAD
-
 .bold{
     font-weight:700;
 }
-=======
 p {
     font-family: 'Mountains of Christmas', cursive; 
     font-size: 20px
 }
->>>>>>> 3ba922afb09466dbef509cbda3ff0ecf61d31dc0
+img{
+    margin:20px;
+    padding:20px;
+    position:relative;
+    float:center;
+}
