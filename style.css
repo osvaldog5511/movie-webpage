@@ -2,9 +2,16 @@ h1{
     color: green;
     text-align: center;
     font-size: 60px;
-    font-family: 'Major Mono Display', monospace;
+    font-family: 'Emilys Candy', cursive;
 }
+<<<<<<< HEAD
 
 .bold{
     font-weight:700;
 }
+=======
+p {
+    font-family: 'Mountains of Christmas', cursive; 
+    font-size: 20px
+}
+>>>>>>> 3ba922afb09466dbef509cbda3ff0ecf61d31dc0
